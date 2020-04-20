@@ -1,5 +1,5 @@
-# happy chat
-## 效果图
+＃故木
+##效果图
 ![](https://github.com/windlany/happy-chat/blob/master/www/image/shoot3.png) 
 ## 运行方式
 ```bash
@@ -9,7 +9,7 @@ git clone https://github.com/windlany/happy-chat.git
 # 安装项目依赖
 npm install
 
-# 运行以下命令打开浏览器的localhost:3000查看
+# 运行以下命令打开浏览器的localhost:3203查看
 cd happy-chat
 node server.js
 ```
